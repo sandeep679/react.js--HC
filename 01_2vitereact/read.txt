@@ -1,0 +1,4 @@
+1) isme app and main m kaam hua hai
+2)isme react kese kaam krte hi wo btaya hai
+3) react m create element kese utlize krta hai wo kiya hai
+4)kese parameter leta hai and uska kya conviention hai react m 
