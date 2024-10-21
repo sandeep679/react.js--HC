@@ -1,0 +1,4 @@
+1) custom hook and  useif hook ka use kiya hai
+2) src m hook m api se data fetch kr raha hai
+3) src m components m input box  m data ko maintain kr jo api se 
+4) app js m kese data show hoga
