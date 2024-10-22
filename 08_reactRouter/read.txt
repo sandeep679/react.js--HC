@@ -1,0 +1,5 @@
+1) layout file banaya hai jisnme outlet banaya jiske wajah se nested kr skhte hai and top level pr layout diya hai jisse nested ki hai
+2)router banya hai main.jsx ma
+3)components folder m sb file banya hai
+4) githubfile m data fetch kiya and loader ka use kiya hai and useLoaderdata hooks ka use kiya hai
+5)User file m useParams hook use kiya hai jisse /:id ke use kr skhte hai route pr
