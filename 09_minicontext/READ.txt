@@ -1,0 +1,3 @@
+compnents m foldder banay hai
+context folder m context api ko setup kiy hai
+app.js m saare use kiya hai
