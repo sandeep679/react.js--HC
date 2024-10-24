@@ -1,0 +1,5 @@
+1) context folder m theme.js  m context api create kiya hai hai
+2)theme btn m useContext use kiya hai
+3) app js m use sb values use kiya hai
+4)
+5)
