@@ -1,0 +1,5 @@
+1) context folder m todocontext file  m  context api ko create kiya hai and usko export kiya hai 
+2) app.js m jitni value li hai todoconntext file se toh uski functionality degine ki hai
+3) components folder m  todoform file m form banaya hai setodo se help se
+4)components folder  m todoitem m fuctoonality ad ki hai usetodo se help se
+5) app.js m localstorage ko define kiya hai and uska use bhi 
