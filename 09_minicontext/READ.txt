@@ -1,3 +1,3 @@
-compnents m foldder banay hai
-context folder m context api ko setup kiy hai
+compnents  foldder m login and profile  banaya hai
+context folder m context api ko setup kiya hai and usercontextProvider m create kiya hai useContext ko
 app.js m saare use kiya hai
