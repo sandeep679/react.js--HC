@@ -1,0 +1,6 @@
+1)store js file banaya hai app folder m 
+2)features folder m slice ko create kiya hai jisme reducer  use kiya hai and usko exporst kiya hai
+3) compo. folder m  addtodo js file m usedispatch kiya hai data ko send karan ke liya store m
+4) todos js file m use selector ka use kiya hai data ko select karna ke liya storse se
+5) app js m addtodo and todos file ko import kiya hai 
+6) main js m provider ko import kiya hai and usme provider m vale di hai jo store hai  and uslo rap kr diya hai
